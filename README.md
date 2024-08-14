@@ -1,8 +1,13 @@
 Blinkit Analytics Dashboard
+
+
+
 Project Overview
+
 The Blinkit Analytics Dashboard project aims to develop interactive dashboards for analyzing sales data spanning a decade, with a specific emphasis on dairy products. The dashboard focuses on key metrics such as total sales, yearly sales trends, fat content distribution, and sales based on location types. Moreover, it offers a comprehensive review of all item types, featuring total sales, sales trends, item rankings by sales, and similar distribution metrics for fat content and location types. These dashboards are designed to support data-driven decision-making by presenting clear visual representations of sales performance and item distribution, enabling stakeholders to comprehend market trends and optimize inventory management.
 
 Steps Involved
+
 Data Cleaning:
 
 - Elimination of unnecessary columns and duplicates.
